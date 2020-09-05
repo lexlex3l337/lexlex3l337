@@ -10,5 +10,5 @@ I have just came from [Scratch](https://scratch.mit.edu/) but I'm not leaving it
 *  Biking
 ----
 # What I am working on
-I am learning programming languages like **go**, **Lua**, and **markdown**. I'm also contributing to the project a [Amass](https://github.com/OWASP/Amass)
+I am learning programming languages like **go**, **Lua**, and **markdown**. I'm also contributing to the project [Amass](https://github.com/OWASP/Amass)
 ![](https://pbs.twimg.com/profile_images/1294860240299728897/bMS2a9P1_400x400.jpg)
