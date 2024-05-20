@@ -1,5 +1,5 @@
 # **About Me**
-I am a young programmer intrested in the amount of power I could have with varipus programming tools.
+I am a young programmer intrested in the amount of power I could have with various programming tools.
 
 ----
 # What I am working on
